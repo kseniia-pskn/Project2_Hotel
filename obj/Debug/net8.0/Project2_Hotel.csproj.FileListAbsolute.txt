@@ -1,0 +1,4 @@
+/Users/kseniia.piskun/Desktop/Project2_Hotel/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniia.piskun/Desktop/Project2_Hotel/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.AssemblyInfoInputs.cache
+/Users/kseniia.piskun/Desktop/Project2_Hotel/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.AssemblyInfo.cs
+/Users/kseniia.piskun/Desktop/Project2_Hotel/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.csproj.CoreCompileInputs.cache
