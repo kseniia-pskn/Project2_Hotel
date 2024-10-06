@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kseniia.piskun/Desktop/Project2_Hotel/Project2_Hotel/Project2_Hotel.csproj",
+      "projectUniqueName": "/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/Project2_Hotel.csproj",
       "projectName": "Project2_Hotel",
-      "projectPath": "/Users/kseniia.piskun/Desktop/Project2_Hotel/Project2_Hotel/Project2_Hotel.csproj",
+      "projectPath": "/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/Project2_Hotel.csproj",
       "packagesPath": "/Users/kseniia.piskun/.nuget/packages/",
-      "outputPath": "/Users/kseniia.piskun/Desktop/Project2_Hotel/Project2_Hotel/obj/",
+      "outputPath": "/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kseniia.piskun/.nuget/NuGet/NuGet.Config"

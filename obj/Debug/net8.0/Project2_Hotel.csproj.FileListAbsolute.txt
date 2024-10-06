@@ -2,3 +2,17 @@
 /Users/kseniia.piskun/Desktop/Project2_Hotel/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.AssemblyInfoInputs.cache
 /Users/kseniia.piskun/Desktop/Project2_Hotel/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.AssemblyInfo.cs
 /Users/kseniia.piskun/Desktop/Project2_Hotel/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.csproj.CoreCompileInputs.cache
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.AssemblyInfoInputs.cache
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.AssemblyInfo.cs
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.csproj.CoreCompileInputs.cache
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/bin/Debug/net8.0/Project2_Hotel
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/bin/Debug/net8.0/Project2_Hotel.deps.json
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/bin/Debug/net8.0/Project2_Hotel.runtimeconfig.json
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/bin/Debug/net8.0/Project2_Hotel.dll
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/bin/Debug/net8.0/Project2_Hotel.pdb
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.dll
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/obj/Debug/net8.0/refint/Project2_Hotel.dll
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.pdb
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/obj/Debug/net8.0/Project2_Hotel.genruntimeconfig.cache
+/Users/kseniia.piskun/Desktop/Project2/Project2_Hotel/obj/Debug/net8.0/ref/Project2_Hotel.dll
